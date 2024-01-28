@@ -1,5 +1,7 @@
 # XYZ Position Gizmo for Path3D
 
+*Built for Godot 4.2, support for other versions not tested*
+
 To install, drop the `better-path3d-gizmos` folder into the `addons/` dir of your Godot project. Then, in your project settings enable the `BetterPath3DHandles` plugin.
 
 The built-in Godot Path3D gizmos don't allow for per-component editing. This gizmo adds separate
